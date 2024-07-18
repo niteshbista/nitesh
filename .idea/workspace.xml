@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e9d8acbf-6885-46f5-b9ad-a4d51282834d" name="Changes" comment="n">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hw2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hw2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +49,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.hw1.executor": "Run",
+    "Application.hw5.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
@@ -60,6 +61,9 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "/Users/niteshbista/IdeaProjects/main.java/src/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -83,7 +87,7 @@
       <workItem from="1720683011060" duration="237000" />
       <workItem from="1721114310034" duration="166000" />
       <workItem from="1721114577145" duration="1407000" />
-      <workItem from="1721294598826" duration="722000" />
+      <workItem from="1721294598826" duration="6107000" />
     </task>
     <task id="LOCAL-00001" summary="n">
       <option name="closed" value="true" />
@@ -93,7 +97,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720683063351</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="n">
+      <option name="closed" value="true" />
+      <created>1721295443716</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1721295443716</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
