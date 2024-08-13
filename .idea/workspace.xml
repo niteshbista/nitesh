@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e9d8acbf-6885-46f5-b9ad-a4d51282834d" name="Changes" comment="n" />
+    <list default="true" id="e9d8acbf-6885-46f5-b9ad-a4d51282834d" name="Changes" comment="n">
+      <change afterPath="$PROJECT_DIR$/src/homework.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hw4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hw4.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +23,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -32,6 +37,9 @@
     &quot;accountId&quot;: &quot;50c4321f-e6ad-4c6d-9883-1c25d3f4bf41&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 6
@@ -45,6 +53,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Homework.executor": "Run",
+    "Application.homework.executor": "Run",
     "Application.hw1.executor": "Run",
     "Application.hw5.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -61,6 +71,7 @@
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -85,6 +96,10 @@
       <workItem from="1721114310034" duration="166000" />
       <workItem from="1721114577145" duration="1407000" />
       <workItem from="1721294598826" duration="6192000" />
+      <workItem from="1721310285069" duration="516000" />
+      <workItem from="1721311211023" duration="237000" />
+      <workItem from="1723212676080" duration="3779000" />
+      <workItem from="1723530605831" duration="1564000" />
     </task>
     <task id="LOCAL-00001" summary="n">
       <option name="closed" value="true" />
@@ -110,7 +125,31 @@
       <option name="project" value="LOCAL" />
       <updated>1721310209689</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="n">
+      <option name="closed" value="true" />
+      <created>1721310366892</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1721310366892</updated>
+    </task>
+    <task id="LOCAL-00005" summary="n">
+      <option name="closed" value="true" />
+      <created>1721310417904</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1721310417904</updated>
+    </task>
+    <task id="LOCAL-00006" summary="n">
+      <option name="closed" value="true" />
+      <created>1721310598744</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1721310598744</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -119,5 +158,16 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="n" />
     <option name="LAST_COMMIT_MESSAGE" value="n" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/hw5.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
